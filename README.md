@@ -2,24 +2,22 @@
 
 ## To Do
 
-* [ ] Edit Text
 * [ ] Create Markdown Supp
 
-In this lesson, we'll take a look at how to write functions in R and why R people tend to avoid writing loops. 
+In this lesson, we'll take a look at how to write functions in R.
 
 ## Lesson Goals
 
 By the end of this lesson, you will be able to: 
- 
 
 * [ ] Identify similarities and difference between functions in R and Python
 * [ ] Identify the three main components of a function in R
-* [ ] Explain what is vectorized code ?
 
 ## Functions
 
 At this point you've probably written more than a couple of functions in Python.
 You've had points in your analyses where there is no exact function to get the exact data and formatting you need, so you write your own functions in Python.
+
 Here we look at functions in R.
 
 Before writing our own functions, let's look at some similarities between R and Python functions that you might be comfortable with.
@@ -85,7 +83,7 @@ One fantastic way to to learn a lot about any language when starting out is to t
 
 ## Writing Our Own Functions
 
-As listed in [Hands on Programming with R](), functions in R have three basic parts:
+As listed in [Hands on Programming with R](https://rstudio-education.github.io/hopr/basics.html#functions), functions in R have three basic parts:
 
 * Name
 * The Body of Code
@@ -116,5 +114,4 @@ In order to get better at writing functions in R, one thing to do would just be 
 
 ## Conclusions 
 
-* More here 
-
+In this lesson we learned about the basic similarities between R and Python functions!
