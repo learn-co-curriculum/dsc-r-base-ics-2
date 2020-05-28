@@ -1,17 +1,15 @@
-# Base R Basics II  
+# R Base-ics II  
 
-## To Do
-
-* [ ] Create Markdown Supp
+## Introduction
 
 In this lesson, we'll take a look at how to write functions in R.
 
-## Lesson Goals
+## Objectives
 
-By the end of this lesson, you will be able to: 
+You will be able to: 
 
-* [ ] Identify similarities and difference between functions in R and Python
-* [ ] Identify the three main components of a function in R
+* Identify similarities and difference between functions in R and Python
+* Identify the three main components of a function in R
 
 ## Functions
 
@@ -112,6 +110,6 @@ The code here could almost be Python with the exception of the `<-` operator!
 
 In order to get better at writing functions in R, one thing to do would just be to keep things easy and try to convert some of your favorite functions from Python to R.
 
-## Conclusions 
+## Summary
 
 In this lesson we learned about the basic similarities between R and Python functions!
