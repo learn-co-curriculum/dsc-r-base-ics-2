@@ -63,7 +63,8 @@ lsf("package:base")
 Or can be a bit more casual and explore using RStudio's auto complete feature.
 If you type out `base::` and letting RStudio's auto complete to do the rest! 
 
-![](img/rbase2-1.png)
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-r-base-ics-2/master/rbase2-1.png">
+
 
 Lastly, before moving on to writing our own functions, if you want to see the code underlying any function in R, you can always type it without the `()`.
 
@@ -75,7 +76,7 @@ dplyr::if_else
 
 Our output will look something like this:
 
-![](img/rbase2-2.png)
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-r-base-ics-2/master/rbase2-2.png">
 
 One fantastic way to to learn a lot about any language when starting out is to try to spend a lot of time reading it before committing to writing it (just like learning a new spoken language!).
 
